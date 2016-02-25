@@ -1,0 +1,72 @@
+
+table {
+    border: 1px solid;
+    text-align: center;
+    background-color: lightgrey;
+    width: 90%;
+    margin-top: 130px;
+}
+
+td {
+    border: 1px solid;
+    text-align: center;
+}
+
+
+h2 { 
+    color: black;
+    text-align: center;
+    
+}
+
+.blueline {
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+    float: left; 
+    width: 33%;
+    border: 1.5px solid blue;
+    background: #f2f9ff;
+}
+
+.list-title {
+    width: 50%;
+    float: left;
+    margin-top: 25px;
+}
+
+.list {
+    width: 50%;
+    float: left;
+    margin-top: 25px;
+}
+
+#circle {
+	width: 200px;
+	height: 200px;
+	border: solid 3px;
+	background: red;
+	border-radius: 100%;
+	margin: 50px 200px 200px 200px;
+	text-align: center;
+	float: left;
+}
+
+#square {
+	width: 200px;
+	height: 200px;
+	border: solid 3px;
+	background: purple;
+	margin: 50px 200px 200px 200px;
+	text-align: center;
+	float: left;
+}
+
+#cpicture {
+	width: 200px;
+	height: 200px;
+	border: solid blue 3px;
+	background-image: url("http://rs255.pbsrc.com/albums/hh145/xmrsdanifilth/Animals/Tigers/ilovemeantigers.jpg~c200");
+	margin: 50px 200px 200px 200px;
+	text-align: center;
+	float: left;
+}
